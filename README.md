@@ -1,4 +1,4 @@
-# Sumswap V2 Subgraph
+# Sumswap Subgraph
 
 [Sumswap](https://sumswap.org/) is a decentralized protocol for automated token exchange on Ethereum.
 
